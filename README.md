@@ -1,4 +1,4 @@
-# Documentation : Intégration de votre propre traitement d'image dans l'application
+# Documentation : Intégration d'un traitement d'image dans l'application
 
 Cette documentation explique comment modifier le code Python pour intégrer votre propre traitement d'image dans l'application Android. Elle montre aussi comment utiliser les boutons et le slider pour interagir avec le code Python.
 
@@ -11,7 +11,7 @@ Le code est divisé en plusieurs fichiers avec des responsabilités spécifiques
 
 ### 1. Modifier le Traitement d'Image
 
-Pour intégrer votre propre traitement d'image, vous devez modifier la fonction `process_image_fun` dans `processing.py`.
+Pour intégrer votre traitement d'image, vous devez modifier la fonction `process_image_fun` dans `processing.py`.
 
 #### Étapes pour Modifier le Traitement d'Image
 
